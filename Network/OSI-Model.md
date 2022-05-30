@@ -12,13 +12,13 @@ It was created in *1984* by the [ISO](https://www.iso.org/fr/home.html). This Mo
 
 The OSI Model use **7 layers** :
 
--  7:    [Application](https://github.com/Vssksj/My_projects/blob/main/Cheat-Sheet/Network/OSI-Model.md#Application)
--  6:    [Presentation](https://github.com/Vssksj/My_projects/blob/main/Cheat-Sheet/Network/OSI-Model.md#Presentation)
--  5:    [Session](https://github.com/Vssksj/My_projects/blob/main/Cheat-Sheet/Network/OSI-Model.md#Session)
--  4:    [Transport](https://github.com/Vssksj/My_projects/blob/main/Cheat-Sheet/Network/OSI-Model.md#Transport)
--  3:    [Network](https://github.com/Vssksj/My_projects/blob/main/Cheat-Sheet/Network/OSI-Model.md#Network)
--  2:    [Data Link](https://github.com/Vssksj/My_projects/blob/main/Cheat-Sheet/Network/OSI-Model.md#Data-Link)
--  1:    [Physical](https://github.com/Vssksj/My_projects/blob/main/Cheat-Sheet/Network/OSI-Model.md#Physical)
+-  7:    [Application](https://github.com/Vssksj/Cheat-Sheets/blob/main/Cheat-Sheet/Network/OSI-Model.md#Application)
+-  6:    [Presentation](https://github.com/Vssksj/Cheat-Sheets/blob/main/Cheat-Sheet/Network/OSI-Model.md#Presentation)
+-  5:    [Session](https://github.com/Vssksj/Cheat-Sheets/blob/main/Cheat-Sheet/Network/OSI-Model.md#Session)
+-  4:    [Transport](https://github.com/Vssksj/Cheat-Sheets/blob/main/Cheat-Sheet/Network/OSI-Model.md#Transport)
+-  3:    [Network](https://github.com/Vssksj/Cheat-Sheets/blob/main/Cheat-Sheet/Network/OSI-Model.md#Network)
+-  2:    [Data Link](https://github.com/Vssksj/Cheat-Sheets/blob/main/Cheat-Sheet/Network/OSI-Model.md#Data-Link)
+-  1:    [Physical](https://github.com/Vssksj/Cheat-Sheets/blob/main/Cheat-Sheet/Network/OSI-Model.md#Physical)
 
 
 And which one is important, you can't jump over a layer. For example, you can't go from *Data Link* to *Presentation*. Moreover, the layers can be cut in three parts:
