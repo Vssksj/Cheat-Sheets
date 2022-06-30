@@ -1,4 +1,4 @@
-# Wonderful Cheat-Sheet for *Nmap*
+# Little Cheat-Sheet for *Nmap*
 
 ## Introduction
 
